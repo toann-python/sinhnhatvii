@@ -1,0 +1,12 @@
+{
+  "name": "chucmungsinhnhat",
+  "version": "1.0.0",
+  "description": "Hello code code code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
